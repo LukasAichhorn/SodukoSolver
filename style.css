@@ -1,0 +1,38 @@
+html{
+    
+}
+body{
+    
+}
+.header{
+    padding: 4px;
+    height: 3rem;
+    background-color: darkslategrey;
+    
+}
+.canvas{
+    position: fixed;
+    top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+    width: 50%;
+    height: 50%;
+    background-color:darkseagreen;
+    
+    
+}
+    
+    
+}
+.bg{
+    background-color: darkgray;
+    
+}
+.container-fluid{
+    padding: 0;
+}
+.bar{
+    background-color:darkslategrey;
+    float: left;
+}
